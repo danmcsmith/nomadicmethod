@@ -1,4 +1,4 @@
-baseURL = "http://nomadicmethod.com"
+baseURL = "https://nomadicmethod.com"
 languageCode = "en-us"
 title = "Nomadic Method"
 theme = "parsa-hugo"
