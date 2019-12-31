@@ -1,3 +1,124 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Nomadic Method"
+theme = "parsa-hugo"
+summaryLength = "10"
+paginate = 6
+
+[outputs]
+  home = ["HTML", "AMP", "RSS", "JSON"]
+  page = ["HTML"]
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/headroom/headroom.js"
+  [[params.plugins.js]]
+  URL = "plugins/instafeed/instafeed.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/masonry/masonry.js"
+  [[params.plugins.js]]
+  URL = "plugins/reading-time/readingTime.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/smooth-scroll/smooth-scroll.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/fuse.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/mark.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/search.js"
+  
+
+  
+# navigation
+[menu]
+    
+  [[menu.main]]
+  name = "About"
+  URL = "about"
+  weight = 2
+  
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight = 3
+
+
+[params]
+logo = "images/logo.png"
+home = "Home"
+# hompage layout ( two layout is available,  you can set the another layout by change the value of homeLayoutToggle "true" to "false")
+homeLayoutToggle = true
+# Meta data
+description = "Traveling Long-term"
+# about author
+author = "Nomadic Method"
+authorImage = "images/banner-img.png"
+shortDescription = "Travel as a medium for growth"
+# Contact Form Action
+contactFormAction = "mailto:danmcsmith@gmail.com"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# copyright
+copyright = "Daniel Smith"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+  
+  # search
+  [params.search]
+  enable = false
+
+  # Instagram feed
+  [params.instafeed]
+  enable = true
+  userID = "26949531376"
+  accessToken = "26949531376.1677ed0.efc0462fbb934cf78dc0e96ee5e993a5"
+
+  # footer
+  [params.footer]
+
+    #address
+    [[params.footer.addresses]]
+    address = "?"
+    
+    [[params.footer.addresses]]
+    address = ""
+
+    
+    #contact information
+    [[params.footer.contacts]]
+    contactInfo = ""
+    
+    [[params.footer.contacts]]
+    contactInfo = "Mail: nomadicmethod@gmail.com"
+
+
+  # social site
+  
+  [[params.social]]
+  icon = "ti-linkedin"
+  URL = "https://www.linkedin.com/in/danielsmithlpc/"
+
+  [[params.social]]
+  icon = "ti-instagram"
+  URL = "https://www.instagram.com/nomadic.method/"
+  
+  
