@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nomadic Method</title>
+    <link>http://nomadicmethod.com/</link>
+    <description>Recent content on Nomadic Method</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Dec 2019 14:46:10 +0600</lastBuildDate>
+    
+	<atom:link href="http://nomadicmethod.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Best Travel Backpacks of 2019</title>
+      <link>http://nomadicmethod.com/bestbackpacks/</link>
+      <pubDate>Mon, 30 Dec 2019 14:46:10 +0600</pubDate>
+      
+      <guid>http://nomadicmethod.com/bestbackpacks/</guid>
+      <description>As more adventurers hit the road for traveling, the more options we have for luggage.</description>
+    </item>
+    
+    <item>
+      <title>Ultimate Travel Packing List</title>
+      <link>http://nomadicmethod.com/ultimatelist/</link>
+      <pubDate>Sat, 30 Nov 2019 14:46:10 +0600</pubDate>
+      
+      <guid>http://nomadicmethod.com/ultimatelist/</guid>
+      <description>Trying to decide what to bring abroad and how to pack for traveling long-term can be difficult.</description>
+    </item>
+    
+    <item>
+      <title>5 Ways to Reduce Your Environmental Impact While Traveling</title>
+      <link>http://nomadicmethod.com/reduceenvironmentfootprint/</link>
+      <pubDate>Wed, 02 Oct 2019 14:46:10 +0600</pubDate>
+      
+      <guid>http://nomadicmethod.com/reduceenvironmentfootprint/</guid>
+      <description>The luxury of travel is becoming more available. Flights are getting cheaper, rideshare apps compete for your attention, and transportation alternatives are plentiful.</description>
+    </item>
+    
+    <item>
+      <title>Guide to Choosing the Best Banks for Travel</title>
+      <link>http://nomadicmethod.com/bestbanks/</link>
+      <pubDate>Sat, 15 Jun 2019 14:46:10 +0600</pubDate>
+      
+      <guid>http://nomadicmethod.com/bestbanks/</guid>
+      <description>With over hundreds of options in choosing bank accounts, making a decision can be daunting.</description>
+    </item>
+    
+  </channel>
+</rss>

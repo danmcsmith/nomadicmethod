@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finance on Nomadic Method</title>
+    <link>http://nomadicmethod.com/categories/finance/</link>
+    <description>Recent content in Finance on Nomadic Method</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jun 2019 14:46:10 +0600</lastBuildDate>
+    
+	<atom:link href="http://nomadicmethod.com/categories/finance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Guide to Choosing the Best Banks for Travel</title>
+      <link>http://nomadicmethod.com/bestbanks/</link>
+      <pubDate>Sat, 15 Jun 2019 14:46:10 +0600</pubDate>
+      
+      <guid>http://nomadicmethod.com/bestbanks/</guid>
+      <description>With over hundreds of options in choosing bank accounts, making a decision can be daunting.</description>
+    </item>
+    
+  </channel>
+</rss>
