@@ -1,7 +1,7 @@
 baseURL = "http://nomadicmethod.com"
 languageCode = "en-us"
 title = "Nomadic Method"
-theme = "parsa-hugo"
+theme = "parsa-hugo-personal-blog-theme"
 summaryLength = "10"
 paginate = 6
 
