@@ -74,7 +74,7 @@ shortDescription = "Travel as a medium for growth"
 # Contact Form Action
 contactFormAction = "mailto:danmcsmith@gmail.com"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "208601950"
 # copyright
 copyright = "Daniel Smith"
 
@@ -97,7 +97,7 @@ copyright = "Daniel Smith"
 
     #address
     [[params.footer.addresses]]
-    address = "?"
+    address = "Portland, Oregon, USA"
     
     [[params.footer.addresses]]
     address = ""
@@ -108,7 +108,7 @@ copyright = "Daniel Smith"
     contactInfo = ""
     
     [[params.footer.contacts]]
-    contactInfo = "Mail: nomadicmethod@gmail.com"
+    contactInfo = ""
 
 
   # social site

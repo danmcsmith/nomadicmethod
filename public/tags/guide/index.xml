@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guide on Nomadic Method</title>
-    <link>http://nomadicmethod.com/tags/guide/</link>
+    <link>https://nomadicmethod.com/tags/guide/</link>
     <description>Recent content in Guide on Nomadic Method</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Nov 2019 14:46:10 +0600</lastBuildDate>
     
-	<atom:link href="http://nomadicmethod.com/tags/guide/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nomadicmethod.com/tags/guide/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ultimate Travel Packing List</title>
-      <link>http://nomadicmethod.com/ultimatelist/</link>
+      <link>https://nomadicmethod.com/ultimatelist/</link>
       <pubDate>Sat, 30 Nov 2019 14:46:10 +0600</pubDate>
       
-      <guid>http://nomadicmethod.com/ultimatelist/</guid>
+      <guid>https://nomadicmethod.com/ultimatelist/</guid>
       <description>Trying to decide what to bring abroad and how to pack for traveling long-term can be difficult.</description>
     </item>
     
