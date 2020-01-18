@@ -12,7 +12,7 @@ tags:
   - "Best of"
 ---
 {{< rawhtml >}}
-With more travelers relying on smartphone apps for booking travel in 2019 and an increase of 3.8 billion smartphone users estimated by 2021 globally, the rise of travel apps are flooding the market. From catching your favorite Pokemon in Indonesia to budgeting each country based on local currencies, there are travel apps for every occasion. With long-term travelers, finding trustworthy apps that are consistent and reliable come at great value. 
+With more travelers relying on <a href="https://info-digital.travelport.com/trends2019">smartphone apps for booking travel</a> in 2019 and an increase of 3.8 billion smartphone users estimated by 2021 globally, the rise of travel apps are flooding the market. From catching your favorite Pokemon in Indonesia to budgeting each country based on local currencies, there are travel apps for every occasion. With long-term travelers, finding trustworthy apps that are consistent and reliable come at great value. 
 <br></br>
 2019 was a great year to try new apps as well as test updates for older apps. I have used all of these apps listed below as well as many other apps not listed. Tried and tested, here are the best apps for traveling long-term.
 <br></br>
